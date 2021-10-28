@@ -1,2 +1,2 @@
-# Mini-Projetos-C-
+# Mini-Projetos-C#
 Projetos desenvolvido em linguagem C#
